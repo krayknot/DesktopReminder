@@ -1,0 +1,25 @@
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReminders.resources
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmWallpaperSet.resources
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSplash.resources
+C:\Temp\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmWallpaperChoice.resources
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmReminders.resources
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmSplash.resources
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmWallpaperChoice.resources
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmWallpaperSet.resources
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\kshitij\Windows Applications\DesktopReminder\DesktopReminder\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AboutBox.resources
